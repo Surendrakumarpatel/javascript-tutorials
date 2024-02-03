@@ -25,5 +25,6 @@ const str = false;
 str && console.log("jab true hoga tbhi kvl");
 
 
+
  
  
